@@ -1,0 +1,12 @@
+{
+    "name": "nosql_practica1_bbdd",
+    "author": "BBDD-ETSIT",
+    "license": "GNU",
+    "version": "0.0.0",
+    "info": {
+        "githubURL": "BBDD-ETSIT/nosql_practica1_bbdd",
+        "serverUrl": "https://autocorector.dit.upm.es/",
+        "courseId": "2110",
+        "assignmentId": "16972"
+    }
+}
