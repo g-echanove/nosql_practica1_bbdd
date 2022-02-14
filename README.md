@@ -5,27 +5,23 @@
 <br/><br/><br/>
 
 # nosql_practica1_bbdd
-## Objetivos
- * Objetivo 1
- * Objetivo 2
 ## Descripción de la práctica
 
-A completar por el profesor
-
+Provista en PDF en el Moodle de la asignatura.
 
 ## Descargar el código del proyecto
 
 El proyecto debe clonarse en el ordenador desde el que se está trabajando:
 
 ```
-$ git clone https://github.com/BBDD-ETSIT/nosql_practica1_bbdd
+$ git clone https://github.com/ebarra/nosql_practica1_bbdd
 ```
 A continuación se debe acceder al directorio de trabajo y abrir el fichero index.html con el editor de la elección del alumno.
 
 ```
 $ cd nosql_practica1_bbdd
 ```
-## Prueba de la práctica 
+## Prueba de la práctica  
 
 Para ayudar al desarrollo, se provee una herramienta de autocorrección que prueba las distintas funcionalidades que se piden en el enunciado. Para utilizar esta herramienta debes tener node.js (y npm) ([https://nodejs.org/es/](https://nodejs.org/es/)) y Git instalados. 
 
