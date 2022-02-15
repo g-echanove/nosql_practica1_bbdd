@@ -14,7 +14,7 @@ Provista en PDF en el Moodle de la asignatura.
 El proyecto debe clonarse en el ordenador desde el que se está trabajando:
 
 ```
-$ git clone https://github.com/ebarra/nosql_practica1_bbdd
+$ git clone https://github.com/BBDD-ETSIT/nosql_practica1_bbdd
 ```
 A continuación se debe acceder al directorio de trabajo y abrir el fichero index.html con el editor de la elección del alumno.
 
