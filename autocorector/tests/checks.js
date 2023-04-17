@@ -40,7 +40,7 @@ describe("JSON Tests:", function () {
         if (!fileexists2) {
             error_critical = this.msg_err;
         }
-        fileexists.should.be.equal(true);
+        fileexists2.should.be.equal(true);
     });
 
     it("2: Comprobando que el fichero principal contiene JSON con formato correcto.", async function () {
@@ -603,7 +603,7 @@ describe("JSON Tests:", function () {
         }
     });
 
-    it("12: Aplicando el esquema al json.", async function () {
+    it("20: Aplicando el esquema al json.", async function () {
         this.score = 2;
         if (error_critical) {
             this.msg_err = error_critical;
